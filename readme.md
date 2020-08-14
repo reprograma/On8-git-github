@@ -6,6 +6,14 @@
 
 ---
 
+### Links dos exercícios
+
+**Exercício em aula:** https://reprograma.github.io/On8-git-github/aula/
+
+**Projeto para casa:** https://reprograma.github.io/On8-git-github/projeto/
+
+---
+
 ### Referências 🔗
 
 **Git**
