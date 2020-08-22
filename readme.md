@@ -12,6 +12,8 @@
 
 **Projeto para casa:** https://reprograma.github.io/On8-git-github/projeto/
 
+**Exercício de revisão:** https://reprograma.github.io/On8-git-github/revisao/
+
 ---
 
 ### Referências 🔗
